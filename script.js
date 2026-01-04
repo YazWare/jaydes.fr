@@ -6,7 +6,10 @@ const mainContainer = document.querySelector(".main-container");
 // --- TEXTES ANIMES ---
 const texts = [
     "yen",
+    "plyen",
+    "ply",
     "i stole this whole layout",
+    "unprofitable",
     "epstein didn't kill himself",
     "larp"
 ];
